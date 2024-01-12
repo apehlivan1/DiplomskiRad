@@ -1,1 +1,3 @@
-# DiplomskiRad
+# Poboljšanje iskustva posjetitelja umjetničke galerije kroz prepoznavanje slika: Dizajniranje mobilne aplikacije za dubinsko istraživanje umjetnosti
+
+Teza uključuje razvoj mobilne aplikacije koja koristi tehnologiju prepoznavanja slika kako bi posjetiteljima umjetničke galerije pružila bogatije iskustvo. Primarna svrha aplikacije je omogućiti korisnicima da snime fotografije umjetničkih djela u galeriji, a zatim automatski dohvate detaljne informacije o umjetnosti, uključujuci biografiju umjetnika, historijski kontekst i interpretaciju, u realnom vremenu. Istraživanje obuhvata različite aspekte, uključujući kompjutersku viziju, obradu slike i dizajn korisničkog interfejsa, kako bi se stvorio korisnik-prijatan i informativan alat koji promoviše dublje razumijevanje i uvažavanje izloženog umjetničkog djela. Cilj je poboljšati iskustvo umjetničke galerije i uključiti posjetitelje na interaktivniji i edukativniji način.
